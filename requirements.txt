@@ -1,0 +1,7 @@
+django 
+djangorestframework
+PyJWT
+redis 
+psycopg2-binary 
+python-decouple
+python-dotenv
